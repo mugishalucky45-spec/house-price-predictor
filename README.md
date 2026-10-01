@@ -84,7 +84,7 @@ The application then predicts the estimated house price in million RWF.
   
 ## Project Report
 
-[Download the Machine Learning Project Report](./Mugisha_Emmanuel_Machine_Learning_Report.pdf)
+[Download the Machine Learning Project Report](./Z_Machine_Learning_Project_Report.pdf))
 
 ## How to Run Locally
 
