@@ -5,6 +5,19 @@ import joblib
 st.set_page_config(page_title="Rwanda House Price Predictor", page_icon="🏠")
 
 st.title("Rwanda House Price Predictor")
+
+st.markdown("""
+### Student Information
+
+**Student Name:** MUGISHA EMMANUEL  
+**Registration Number:** 26RP00370  
+**Module:** MACHINE LEARNING  
+**Module Code:** GENML801  
+**Department:** ELECTRICAL AND ELECTRONIC DEPARTMENT  
+**Option and Class:** ETT Y4 BTECH  
+**Date:** 01ST OCTOBER 2026
+""")
+
 st.write("Estimate the market price of a house in million RWF using a trained multiple linear regression model.")
 
 @st.cache_resource
