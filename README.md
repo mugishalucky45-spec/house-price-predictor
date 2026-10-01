@@ -81,6 +81,10 @@ The application then predicts the estimated house price in million RWF.
 - `house prediction.ipynb` — Jupyter Notebook containing the analysis and modelling
 - `requirements.txt` — Python dependencies
 - `README.md` — project documentation
+  
+## Project Report
+
+[Download the Machine Learning Project Report](./Mugisha_Emmanuel_Machine_Learning_Report.pdf)
 
 ## How to Run Locally
 
